@@ -14,4 +14,3 @@ OFF
 ![LED OFF](https://user-images.githubusercontent.com/101713731/164617126-669da5ce-ca57-4f20-9982-cf8cbf63dd4b.png)
 ON
 ![LED ON](https://user-images.githubusercontent.com/101713731/164617372-f416661b-dec7-4c01-97a9-19f4dfacc6c4.png)
-
