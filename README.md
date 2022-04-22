@@ -1,4 +1,7 @@
 # M2_Control-Three-LED-s-using-a-Push-button-switch
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fe21041576d54369989327010b4a95ec)](https://app.codacy.com/gh/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch?utm_source=github.com&utm_medium=referral&utm_content=shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch&utm_campaign=Badge_Grade_Settings)
+
 ## This repository contains my project for module 2
 ## Project must have below components
 - Atmega 328 microcontroller
