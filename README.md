@@ -19,3 +19,4 @@ ON
 ## Codiga Badge
 ![Codiga](https://api.codiga.io/project/33057/score/svg)
 ![Codiga](https://api.codiga.io/project/33057/status/svg)
+cpp check analyse [![Cppcheck Analyse](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/cpp%20check_Analyse.yml/badge.svg)](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/cpp%20check_Analyse.yml)
