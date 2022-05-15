@@ -17,7 +17,7 @@ ON
 ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed2041bf187f4f77b256ff2cea9099e5)](https://www.codacy.com/gh/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch&amp;utm_campaign=Badge_Grade)
 ## Codiga Badge
-![Codiga](https://api.codiga.io/project/33057/score/svg)
-![Codiga](https://api.codiga.io/project/33057/status/svg)
+![Codiga](https://api.codiga.io/project/33548/score/svg)
+![Codiga](https://api.codiga.io/project/33548/status/svg)
 cpp check analyse [![Cppcheck Analyse](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/cpp%20check_Analyse.yml/badge.svg)](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/cpp%20check_Analyse.yml)
 Build on Linux [![Build-Linux](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/shreenathemr/M2_Control-Three-LED-s-using-a-Push-button-switch/actions/workflows/Build%20on%20Linux.yml)
